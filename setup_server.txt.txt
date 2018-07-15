@@ -1,0 +1,10 @@
+###### ROOT SYSTEM ####
+user_name: masteradmin
+pwd: 6(@g!#3boO#0MUB4ux
+
+#### DATABASE ###
+database_name: dongsanxanh
+user_name:dongsanxanh
+pwd: 123456
+
+####### PLUGIN #####
