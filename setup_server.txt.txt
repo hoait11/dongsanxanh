@@ -1,3 +1,10 @@
+### Config php.ini ###
+Làm 1 l?n.
+- Tang max_file_size_upload: 
+- Tang max_execution_time => gây ra l?i 30s
+- Tang Memory trong filee wp_config.php
+
+
 ###### ROOT SYSTEM ####
 user_name: masteradmin
 pwd: 6(@g!#3boO#0MUB4ux
